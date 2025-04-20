@@ -24,4 +24,3 @@ ax.scatter(loaded_model.cluster_centers_[:, 0], loaded_model.cluster_centers_[:,
 ax.set_title('k-Means Clustering')
 ax.legend()
 st.pyplot(fig)
-st.pyplot(fig)
